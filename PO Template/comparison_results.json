@@ -1,0 +1,98 @@
+[
+  [
+    1,
+    {
+      "ref_size": [
+        1653,
+        2339
+      ],
+      "gen_size": [
+        1653,
+        2339
+      ],
+      "diff_count": 474687,
+      "total_pixels": 3866367,
+      "diff_percent": 12.277339424839907
+    }
+  ],
+  [
+    2,
+    {
+      "ref_size": [
+        1653,
+        2339
+      ],
+      "gen_size": [
+        1653,
+        2339
+      ],
+      "diff_count": 455049,
+      "total_pixels": 3866367,
+      "diff_percent": 11.769420750797842
+    }
+  ],
+  [
+    3,
+    {
+      "ref_size": [
+        1653,
+        2339
+      ],
+      "gen_size": [
+        1653,
+        2339
+      ],
+      "diff_count": 358346,
+      "total_pixels": 3866367,
+      "diff_percent": 9.26828725777972
+    }
+  ],
+  [
+    4,
+    {
+      "ref_size": [
+        1653,
+        2339
+      ],
+      "gen_size": [
+        1653,
+        2339
+      ],
+      "diff_count": 366524,
+      "total_pixels": 3866367,
+      "diff_percent": 9.47980365030014
+    }
+  ],
+  [
+    5,
+    {
+      "ref_size": [
+        1653,
+        2339
+      ],
+      "gen_size": [
+        1653,
+        2339
+      ],
+      "diff_count": 316750,
+      "total_pixels": 3866367,
+      "diff_percent": 8.192445259335186
+    }
+  ],
+  [
+    6,
+    {
+      "ref_size": [
+        1653,
+        2339
+      ],
+      "gen_size": [
+        1653,
+        2339
+      ],
+      "diff_count": 86206,
+      "total_pixels": 3866367,
+      "diff_percent": 2.2296383142107308
+    }
+  ]
+]
