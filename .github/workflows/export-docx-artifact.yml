@@ -1,0 +1,33 @@
+name: Export DOCX Artifact
+
+on:
+  push:
+    branches:
+      - arena/01a08af3-masbdocument
+
+jobs:
+  upload-docx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify DOCX exists and SHA256
+        run: |
+          ls -lh "PO Template/MIMOS_Academy_Blank_Purchase_Order_Template.docx"
+          sha256sum "PO Template/MIMOS_Academy_Blank_Purchase_Order_Template.docx"
+          echo "Expected SHA256: d27787ceaac461e18399ec0b5feaff479bfb09d5cad5fb2a2b46ee2a0f56ca85"
+          actual=$(sha256sum "PO Template/MIMOS_Academy_Blank_Purchase_Order_Template.docx" | awk '{print $1}')
+          if [ "$actual" != "d27787ceaac461e18399ec0b5feaff479bfb09d5cad5fb2a2b46ee2a0f56ca85" ]; then
+            echo "SHA256 mismatch! Actual: $actual"
+            exit 1
+          fi
+          echo "SHA256 verified"
+
+      - name: Upload DOCX as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MIMOS-Academy-PO-DOCX
+          path: PO Template/MIMOS_Academy_Blank_Purchase_Order_Template.docx
+          if-no-files-found: error
+          retention-days: 7
