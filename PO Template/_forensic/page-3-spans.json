@@ -1,0 +1,1822 @@
+[
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      58.34,
+      565.95,
+      68.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Unless  specifically stated otherwise in this PURCHASE ORDER (P.O.),  the following clauses shall form the Terms",
+    "origin": [
+      28.35,
+      65.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      67.34,
+      148.35,
+      77.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "& Conditions of this P.O.",
+    "origin": [
+      28.35,
+      74.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      85.34,
+      37.95,
+      95.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "1.",
+    "origin": [
+      28.35,
+      92.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      84.74,
+      42.5,
+      95.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      92.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      84.74,
+      76.1,
+      95.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "INVOICE",
+    "origin": [
+      42.5,
+      92.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      94.34,
+      565.95,
+      104.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "- Supplier/Contractor's complete and undisputed invoice/claim, attach with a copy of this P.O./LOA, the approved",
+    "origin": [
+      28.35,
+      101.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      103.34,
+      565.95,
+      113.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "delivery  order  (D.O.)  note  and/or  approved  certificate  of  completion  on the services/works and relevant",
+    "origin": [
+      28.35,
+      110.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      112.34,
+      436.35,
+      122.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "supporting document must be submitted to MIMOS' Finance Dept. personnel, (Ext. 5234).",
+    "origin": [
+      28.35,
+      119.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      130.34,
+      37.95,
+      140.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "2.",
+    "origin": [
+      28.35,
+      137.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      129.74,
+      42.5,
+      140.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      137.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      129.74,
+      56.9,
+      140.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "TAX",
+    "origin": [
+      42.5,
+      137.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      139.34,
+      359.55,
+      149.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "- The prices specified in this PO are subject to taxes,if applicable.",
+    "origin": [
+      28.35,
+      146.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      157.34,
+      37.95,
+      167.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "3.",
+    "origin": [
+      28.35,
+      164.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      156.74,
+      42.5,
+      167.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      164.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      156.74,
+      66.5,
+      167.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "OFFER",
+    "origin": [
+      42.5,
+      164.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      166.34,
+      565.95,
+      176.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  This  P.O. and its attachments/appendices, if any, constitute MIMOS' offer and is conditioned upon Supplier's",
+    "origin": [
+      28.35,
+      173.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      175.34,
+      565.95,
+      185.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "(including  Contractor or Consultant, where relevant) acceptance of each of the following terms & conditions and",
+    "origin": [
+      28.35,
+      182.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      184.34,
+      565.95,
+      194.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "any  alteration  of any term & condition by Supplier shall constitute a counter offer which shall not be binding",
+    "origin": [
+      28.35,
+      191.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      193.34,
+      565.95,
+      203.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "on  MIMOS  until  specifically  accepted  in writing. Notwithstanding the above, the Supplier hereby agrees that",
+    "origin": [
+      28.35,
+      200.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      202.34,
+      565.95,
+      212.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Supplier  (including  contractor  or  consultant)  shall  not  deliver goods or services or commence any works /",
+    "origin": [
+      28.35,
+      209.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      211.34,
+      364.35,
+      221.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "services without receiving an official Purchase Order (PO) from MIMOS.",
+    "origin": [
+      28.35,
+      218.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      229.34,
+      37.95,
+      239.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "4.",
+    "origin": [
+      28.35,
+      236.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      228.74,
+      42.5,
+      239.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      236.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      228.74,
+      133.7,
+      239.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "ACCEPTANCE OF OFFER",
+    "origin": [
+      42.5,
+      236.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      238.34,
+      565.95,
+      248.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  Supplier  must accept this P.O. by giving MIMOS a prompt written acknowledgement of their acceptance within 1",
+    "origin": [
+      28.35,
+      245.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      247.34,
+      565.95,
+      257.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "week ARO. However, in the event Supplier fails to provide MIMOS with a written acknowledgement within 1 week ARO",
+    "origin": [
+      28.35,
+      254.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      256.34,
+      565.95,
+      266.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "and  fails  to  provide  MIMOS  with  a  written notice of rejection of the order, or specific modification of a",
+    "origin": [
+      28.35,
+      263.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      265.34,
+      565.95,
+      275.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "particular  term  & condition within that 1 week period, MIMOS and Supplier hereby agree that all prices and all",
+    "origin": [
+      28.35,
+      272.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      274.34,
+      517.95,
+      284.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "the terms & conditions as expressed herein and its attachment/appendices, if any, shall apply in full.",
+    "origin": [
+      28.35,
+      281.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      292.34,
+      37.95,
+      302.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "5.",
+    "origin": [
+      28.35,
+      299.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      291.74,
+      42.5,
+      302.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      299.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      291.74,
+      66.5,
+      302.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "PRICE",
+    "origin": [
+      42.5,
+      299.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      301.34,
+      565.95,
+      311.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  All  prices shall remain firm throughout the delivery of the ordered goods and/or execution of services/works",
+    "origin": [
+      28.35,
+      308.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      310.34,
+      565.95,
+      320.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "or  until  the  terms, conditions and requirements of this P.O. are completed. No price/rate escalation shall be",
+    "origin": [
+      28.35,
+      317.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      319.34,
+      66.75,
+      329.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "allowed.",
+    "origin": [
+      28.35,
+      326.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      337.34,
+      37.95,
+      347.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "6.",
+    "origin": [
+      28.35,
+      344.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      336.74,
+      42.5,
+      347.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      344.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      336.74,
+      191.3,
+      347.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "SPECIFICATIONS & SCOPE OF WORKS",
+    "origin": [
+      42.5,
+      344.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      346.34,
+      565.95,
+      356.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  Goods  delivered  and/or  services/works  executed  by  Supplier,  shall comply strictly with MIMOS' required",
+    "origin": [
+      28.35,
+      353.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      355.34,
+      565.95,
+      365.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "specifications  &  scope of works, failing which MIMOS shall reject such goods and/or services/works without any",
+    "origin": [
+      28.35,
+      362.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      364.34,
+      565.95,
+      374.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "liability  whatsoever  to Supplier or Supplier shall at MIMOS' request, replace or make good of any short supply",
+    "origin": [
+      28.35,
+      371.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      373.34,
+      191.55,
+      383.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "or defects, at Supplier's expense.",
+    "origin": [
+      28.35,
+      380.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      391.34,
+      37.95,
+      401.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "7.",
+    "origin": [
+      28.35,
+      398.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      390.74,
+      42.5,
+      401.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      398.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      390.74,
+      85.7,
+      401.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "QUANTITY ",
+    "origin": [
+      42.5,
+      398.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      399.74,
+      565.95,
+      410.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "- MIMOS shall be obligated to purchase and accept only the quantity of items described herein and items received",
+    "origin": [
+      28.35,
+      407.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      408.74,
+      527.55,
+      419.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "in excess thereof or substituted by Supplier may be returned to Supplier at Supplier's risk and expense.",
+    "origin": [
+      28.35,
+      416.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      427.34,
+      37.95,
+      437.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "8.",
+    "origin": [
+      28.35,
+      434.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      426.74,
+      42.5,
+      437.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      434.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      426.74,
+      143.3,
+      437.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "MODIFICATIONS/CHANGES",
+    "origin": [
+      42.5,
+      434.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      436.34,
+      565.95,
+      446.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  MIMOS  reserves  the right at any time to make changes in this P.O. or any part thereof. The changes shall be",
+    "origin": [
+      28.35,
+      443.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      445.34,
+      565.95,
+      455.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "made  in  writing,  or  to do so orally with a prompt written confirmation. If such changes cause an increase in",
+    "origin": [
+      28.35,
+      452.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      454.34,
+      565.95,
+      464.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Supplier's  costs and/or an alteration in the delivery/completion date, subject to MIMOS' approval, an equitable",
+    "origin": [
+      28.35,
+      461.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      463.34,
+      565.95,
+      473.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "adjustment  shall  be  made.  Any claim by Supplier for adjustment must be asserted in writing (with details and",
+    "origin": [
+      28.35,
+      470.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      472.34,
+      565.95,
+      482.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "reason)  within  1  week  from  the  date  on which such change was advised and default shall not be admissible.",
+    "origin": [
+      28.35,
+      479.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      481.34,
+      565.95,
+      491.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Thereafter  a  P.O.  Revision  will  be issued to Supplier to confirm on the agreed modifications/changes on the",
+    "origin": [
+      28.35,
+      488.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      490.34,
+      90.75,
+      500.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "original P.O.",
+    "origin": [
+      28.35,
+      497.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      508.34,
+      37.95,
+      518.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "9.",
+    "origin": [
+      28.35,
+      515.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      37.95,
+      507.74,
+      42.5,
+      518.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": " ",
+    "origin": [
+      37.95,
+      515.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.5,
+      507.74,
+      119.3,
+      518.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "PROGRESS OF P.O.",
+    "origin": [
+      42.5,
+      515.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      517.34,
+      565.95,
+      527.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "- Supplier shall liaise closely with MIMOS' requester stated herein, on the progress of this P.O. and notify the",
+    "origin": [
+      28.35,
+      524.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      526.34,
+      565.95,
+      536.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "requester and MIMOS' Goods Receiving Point (GRP) personnel (for ordered goods only with delivery point to MIMOS'",
+    "origin": [
+      28.35,
+      533.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      535.34,
+      565.95,
+      545.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "office  at  Technology  Park  Malaysia (TPM), Kuala Lumpur) in advance prior to the delivery of the goods and/or",
+    "origin": [
+      28.35,
+      542.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      544.34,
+      565.95,
+      554.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "execution  of  ordered services/works. All goods shall be properly packed and protected to withstand transit and",
+    "origin": [
+      28.35,
+      551.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      553.34,
+      565.95,
+      563.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "short  term storage and all packages sequentially numbered. Supplier shall bear all packing and crating charges.",
+    "origin": [
+      28.35,
+      560.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      562.34,
+      565.95,
+      572.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Any  damage  or  loss  resulting  from improper packing and labeling shall be borne by Supplier. All delivery of",
+    "origin": [
+      28.35,
+      569.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      571.34,
+      565.95,
+      581.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "goods  to  MIMOS' GRP/Warehouse must be accompanied with Supplier's D.O. notes, packing list, pro-forma invoice,",
+    "origin": [
+      28.35,
+      578.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      580.34,
+      565.95,
+      590.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "bill  of lading, airway bill, where applicable, and a copy of this P.O. The delivery documents must specify this",
+    "origin": [
+      28.35,
+      587.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      589.34,
+      565.95,
+      599.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "P.O. number, date, line item number(s), quantity and description(s). Partial delivery goods must be specified in",
+    "origin": [
+      28.35,
+      596.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      598.34,
+      565.95,
+      608.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "the  Supplier's  delivery  document to MIMOS. Supplier must tag or label each item delivered. Supplier must seek",
+    "origin": [
+      28.35,
+      605.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      607.34,
+      565.95,
+      617.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "MIMOS'  GRP/Warehouse  authorized  personnel  to  approve  their  D.O. notes and to certify a copy of this P.O.,",
+    "origin": [
+      28.35,
+      614.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      616.34,
+      565.95,
+      626.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "immediately upon delivery of the goods to MIMOS. Supplier is reminded not to deliver the ordered goods direct to",
+    "origin": [
+      28.35,
+      623.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      625.34,
+      153.15,
+      635.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "MIMOS' requester/end-user.",
+    "origin": [
+      28.35,
+      632.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      643.34,
+      42.75,
+      653.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "10.",
+    "origin": [
+      28.35,
+      650.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.75,
+      642.74,
+      287.55,
+      653.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "CERTIFICATE/LETTER OF COMPLETION FOR SERVICES/WORKS",
+    "origin": [
+      42.75,
+      650.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      652.34,
+      565.95,
+      662.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  For  P.O.  involving services/works, Supplier must produce a certificate/letter of completion and seek MIMOS'",
+    "origin": [
+      28.35,
+      659.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      661.34,
+      532.35,
+      671.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "authorized personnel/requester's verification and approval upon completion of the ordered services/works.",
+    "origin": [
+      28.35,
+      668.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      679.34,
+      42.75,
+      689.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "11.",
+    "origin": [
+      28.35,
+      686.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.75,
+      678.74,
+      215.55,
+      689.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "DELIVERY DATE AND/OR COMPLETION DATE",
+    "origin": [
+      42.75,
+      686.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      688.34,
+      565.95,
+      698.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  Supplier shall deliver the goods and/or complete the services/works on or before the delivery/completion date",
+    "origin": [
+      28.35,
+      695.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      697.34,
+      565.95,
+      707.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "specified  herein,  failing  which  MIMOS shall cancel this P.O. without any liability whatsoever to Supplier or",
+    "origin": [
+      28.35,
+      704.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      706.34,
+      541.95,
+      716.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "MIMOS shall impose penalty on Supplier for late delivery of goods and/or late completion of services/works.",
+    "origin": [
+      28.35,
+      713.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      724.34,
+      42.75,
+      734.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "12.",
+    "origin": [
+      28.35,
+      731.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.75,
+      723.74,
+      220.35,
+      734.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "INSTALLATION, TESTING & COMMISSIONING",
+    "origin": [
+      42.75,
+      731.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      733.34,
+      565.95,
+      743.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  Where applicable, Supplier shall be responsible for the installation, testing & commissioning services of the",
+    "origin": [
+      28.35,
+      740.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      742.34,
+      565.95,
+      752.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "goods  purchased.  Supplier  shall  make  available to MIMOS, either without charge or at a rate mutually agreed",
+    "origin": [
+      28.35,
+      749.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      751.34,
+      407.55,
+      761.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "upon, one or more personnel, as reasonable required, to undertake the services.",
+    "origin": [
+      28.35,
+      758.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      769.34,
+      42.75,
+      779.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "13.",
+    "origin": [
+      28.35,
+      776.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      42.75,
+      768.74,
+      100.35,
+      779.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "WARRANTY/DLP",
+    "origin": [
+      42.75,
+      776.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 3,
+    "bbox": [
+      28.35,
+      778.34,
+      565.95,
+      788.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "-  Supplier  warrants  that  all  goods supplied under the terms & conditions of this P.O. are new and free from",
+    "origin": [
+      28.35,
+      785.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 3,
+    "bbox": [
+      162.65,
+      28.72,
+      432.78,
+      40.72
+    ],
+    "size": 12.0,
+    "flags": 16,
+    "font": "Helvetica-Bold",
+    "color": 0,
+    "text": "TERMS & CONDITIONS OF PURCHASE ORDER",
+    "origin": [
+      162.65,
+      37.45
+    ],
+    "ascender": 0.7200000286102295,
+    "descender": -0.27000001072883606
+  }
+]

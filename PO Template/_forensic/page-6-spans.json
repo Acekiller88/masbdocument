@@ -1,0 +1,322 @@
+[
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      58.34,
+      565.95,
+      68.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "- All intellectual, proprietary and other rights and interests of any nature in the deliverables relating to the",
+    "origin": [
+      28.35,
+      65.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      67.34,
+      565.95,
+      77.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "services/works  rendered  or  done by the Supplier for MIMOS shall be owned solely by MIMOS. The Supplier has no",
+    "origin": [
+      28.35,
+      74.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      76.34,
+      565.95,
+      86.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "legal,  beneficial or moral rights over any such intellectual property in whole or in part. The Supplier further",
+    "origin": [
+      28.35,
+      83.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      85.34,
+      565.95,
+      95.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "undertakes  to  cooperate  with  MIMOS,  at MIMOS' cost, in the registration of any intellectual property in the",
+    "origin": [
+      28.35,
+      92.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      94.34,
+      349.95,
+      104.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "deliverables and the enforcement of the same as and when necessary.",
+    "origin": [
+      28.35,
+      101.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      112.34,
+      42.75,
+      122.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "32.",
+    "origin": [
+      28.35,
+      119.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      42.75,
+      111.74,
+      81.15,
+      122.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "BRIBERY ",
+    "origin": [
+      42.75,
+      119.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      121.34,
+      565.95,
+      131.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Any  act  or  attempt to corruptly offer or give, solicit or receive any gratification to and from any person in",
+    "origin": [
+      28.35,
+      128.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      130.34,
+      498.75,
+      140.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "connection with any procurement exercise is a criminal offence under the Anti-Corruption Act 1997.",
+    "origin": [
+      28.35,
+      137.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      148.34,
+      42.75,
+      158.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "33.",
+    "origin": [
+      28.35,
+      155.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      42.75,
+      147.74,
+      177.15,
+      158.94
+    ],
+    "size": 8.0,
+    "flags": 24,
+    "font": "Courier-Bold",
+    "color": 0,
+    "text": "BID-RIGGING/ANTI-COMPETITION",
+    "origin": [
+      42.75,
+      155.8
+    ],
+    "ascender": 1.0069999694824219,
+    "descender": -0.3930000066757202
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      157.34,
+      565.95,
+      167.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "Supplier  shall  not  participate,  or  attempt to participate in any bid-rigging/anti-competition activities in",
+    "origin": [
+      28.35,
+      164.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      166.34,
+      565.95,
+      176.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "connection  with  any procurement exercise such as Cover Bidding, Bid Suppression, Bid Withdrawal, Bid Rotation,",
+    "origin": [
+      28.35,
+      173.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      175.34,
+      565.95,
+      185.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "and  Non-Conforming  bids.  Supplier is reminded that the abovementioned bid-rigging/anti-competition activities",
+    "origin": [
+      28.35,
+      182.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      28.35,
+      184.34,
+      321.15,
+      194.34
+    ],
+    "size": 8.0,
+    "flags": 8,
+    "font": "Courier",
+    "color": 0,
+    "text": "are serious offence under the Malaysian Competition Act 2010.",
+    "origin": [
+      28.35,
+      191.8
+    ],
+    "ascender": 0.9319999814033508,
+    "descender": -0.31700000166893005
+  },
+  {
+    "page": 6,
+    "bbox": [
+      162.65,
+      28.72,
+      432.78,
+      40.72
+    ],
+    "size": 12.0,
+    "flags": 16,
+    "font": "Helvetica-Bold",
+    "color": 0,
+    "text": "TERMS & CONDITIONS OF PURCHASE ORDER",
+    "origin": [
+      162.65,
+      37.45
+    ],
+    "ascender": 0.7200000286102295,
+    "descender": -0.27000001072883606
+  }
+]
