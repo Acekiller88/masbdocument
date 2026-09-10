@@ -1,0 +1,23 @@
+{
+  "banner": {
+    "variant_a_live_diff_percent": 99.86247398156408,
+    "variant_b_raster_diff_percent": 0.0,
+    "winner": "B",
+    "reason": "Raster is closer because PDF banner is raster dark purple/light grey, live black/white differs in colour"
+  },
+  "logo": {
+    "small_93_6_diff_percent": 49.01245895306162,
+    "exact_120_diff_percent": 0.0,
+    "winner": "exact"
+  },
+  "band": {
+    "small_59_5_diff_percent": 36.626095423563775,
+    "exact_93_55_diff_percent": 37.0253164556962,
+    "winner": "small"
+  },
+  "overflow": {
+    "merged_diff_percent": 10.971118433805001,
+    "native_diff_percent": 10.971118433805001,
+    "winner": "merged"
+  }
+}

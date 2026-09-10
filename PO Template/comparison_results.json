@@ -1,98 +1,38 @@
 [
-  [
-    1,
-    {
-      "ref_size": [
-        1653,
-        2339
-      ],
-      "gen_size": [
-        1653,
-        2339
-      ],
-      "diff_count": 474687,
-      "total_pixels": 3866367,
-      "diff_percent": 12.277339424839907
-    }
-  ],
-  [
-    2,
-    {
-      "ref_size": [
-        1653,
-        2339
-      ],
-      "gen_size": [
-        1653,
-        2339
-      ],
-      "diff_count": 455049,
-      "total_pixels": 3866367,
-      "diff_percent": 11.769420750797842
-    }
-  ],
-  [
-    3,
-    {
-      "ref_size": [
-        1653,
-        2339
-      ],
-      "gen_size": [
-        1653,
-        2339
-      ],
-      "diff_count": 358346,
-      "total_pixels": 3866367,
-      "diff_percent": 9.26828725777972
-    }
-  ],
-  [
-    4,
-    {
-      "ref_size": [
-        1653,
-        2339
-      ],
-      "gen_size": [
-        1653,
-        2339
-      ],
-      "diff_count": 366524,
-      "total_pixels": 3866367,
-      "diff_percent": 9.47980365030014
-    }
-  ],
-  [
-    5,
-    {
-      "ref_size": [
-        1653,
-        2339
-      ],
-      "gen_size": [
-        1653,
-        2339
-      ],
-      "diff_count": 316750,
-      "total_pixels": 3866367,
-      "diff_percent": 8.192445259335186
-    }
-  ],
-  [
-    6,
-    {
-      "ref_size": [
-        1653,
-        2339
-      ],
-      "gen_size": [
-        1653,
-        2339
-      ],
-      "diff_count": 86206,
-      "total_pixels": 3866367,
-      "diff_percent": 2.2296383142107308
-    }
-  ]
+  {
+    "page": 1,
+    "diff_count": 389258,
+    "total": 3866367,
+    "diff_percent": 10.067797495685225
+  },
+  {
+    "page": 2,
+    "diff_count": 394441,
+    "total": 3866367,
+    "diff_percent": 10.201850988279178
+  },
+  {
+    "page": 3,
+    "diff_count": 399787,
+    "total": 3866367,
+    "diff_percent": 10.340120324842417
+  },
+  {
+    "page": 4,
+    "diff_count": 415721,
+    "total": 3866367,
+    "diff_percent": 10.752238470895287
+  },
+  {
+    "page": 5,
+    "diff_count": 366142,
+    "total": 3866367,
+    "diff_percent": 9.46992357424942
+  },
+  {
+    "page": 6,
+    "diff_count": 142126,
+    "total": 3866367,
+    "diff_percent": 3.675957300483891
+  }
 ]
